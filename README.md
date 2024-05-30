@@ -17,4 +17,5 @@ Twitch is a live streaming platform where streamers broadcast live video content
     
  PROJECT ARCHITECTURE:  
  
-![image](https://github.com/Swathi-Reddy1408/live-stream-chat-sentiment-analysis/assets/52827609/25c7b745-c9d2-449b-abb9-425601739248)  
+![image](https://github.com/Swathi-Reddy1408/live-stream-chat-sentiment-analysis/assets/52827609/26ef1b20-2f88-470e-8a4c-b57ed1ef11a9)
+
